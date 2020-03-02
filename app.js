@@ -3,8 +3,9 @@ Vue.component('movie-list',{
     <div class="movie-list">
     <div class="row">
     <div class="col-md-4" v-for ="sts in status">
-    <a href="movie.html"> <img :src="sts.Poster"></a>
+    <img :src="sts.Poster">
     <h5>{{ sts.Title }}</h5>
+    <a href="movie.html" class="btn btn-primary">Click to view Summary</a>
   </div> 
   </div>
   </div>
