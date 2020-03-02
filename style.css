@@ -1,0 +1,13 @@
+
+@media(min-width:960px)
+{
+.movie-list .col-md-3 img
+{
+    height:240px;
+    width:100%;
+    padding:100px;
+    margin:50px;
+
+}
+
+}

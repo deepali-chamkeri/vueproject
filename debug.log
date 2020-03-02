@@ -1,0 +1,22 @@
+[0228/220155.373:ERROR:process_info.cc(359)] UncheckedAllocate
+[0228/220155.413:ERROR:process_info.cc(359)] UncheckedAllocate
+[0228/220316.017:ERROR:process_info.cc(359)] UncheckedAllocate
+[0228/220316.033:ERROR:process_info.cc(359)] UncheckedAllocate
+[0229/192324.272:ERROR:process_info.cc(359)] UncheckedAllocate
+[0229/192424.834:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Deepali\AppData\Local\Google\Chrome\User Data\Crashpad\reports\e697ab2a-0d82-4247-b86d-84676b0f596c.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0229/194105.557:ERROR:process_info.cc(359)] UncheckedAllocate
+[0229/194105.565:ERROR:process_info.cc(359)] UncheckedAllocate
+[0229/194107.480:ERROR:process_info.cc(359)] UncheckedAllocate
+[0229/194108.602:ERROR:process_info.cc(359)] UncheckedAllocate
+[0229/194556.285:ERROR:process_info.cc(359)] UncheckedAllocate
+[0229/194640.456:ERROR:process_info.cc(359)] UncheckedAllocate
+[0229/215007.338:ERROR:process_info.cc(359)] UncheckedAllocate
+[0229/215012.301:ERROR:process_info.cc(359)] UncheckedAllocate
+[0229/215012.314:ERROR:process_info.cc(359)] UncheckedAllocate
+[0229/215012.354:ERROR:process_info.cc(359)] UncheckedAllocate
+[0229/215015.242:ERROR:process_info.cc(359)] UncheckedAllocate
+[0229/215023.289:ERROR:process_info.cc(359)] UncheckedAllocate
+[0229/215025.848:ERROR:process_info.cc(359)] UncheckedAllocate
+[0229/215033.349:ERROR:process_info.cc(359)] UncheckedAllocate
+[0229/224741.118:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0301/111704.889:ERROR:process_info.cc(359)] UncheckedAllocate
