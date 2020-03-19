@@ -77,7 +77,7 @@ return {
 
       this.status1='loading';
       var vm=this;
-      axios.get('https://www.omdbapi.com/?apikey=bfce84f9&i=tt3896198')
+      axios.get('https://www.omdbapi.com/?apikey=bfce84f9&i=tt1201607')
       .then(function(response){
         console.log(response)
         vm.status1 = response.data;
