@@ -25,7 +25,7 @@ return {
     {
       this.status='loading';
       var vm=this;
-      axios.get('https://www.omdbapi.com/?s=harry%20potter&apikey=e0620bd4&page=1')
+      axios.get('https://www.omdbapi.com/?s=harry%20potter&apikey=bfce84f9&page=1')
       .then(function(response){
         console.log(response)
         vm.status = response.data.Search
@@ -77,7 +77,7 @@ return {
 
       this.status1='loading';
       var vm=this;
-      axios.get('https://www.omdbapi.com/?apikey=e0620bd4&i=tt1201607')
+      axios.get('https://www.omdbapi.com/?apikey=bfce84f9&i=tt3896198')
       .then(function(response){
         console.log(response)
         vm.status1 = response.data;
